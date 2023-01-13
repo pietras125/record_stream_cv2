@@ -21,4 +21,4 @@ if __name__ == "__main__":
     cap.stop_recording()  
 ```
 
-This will record 5 second video from your webcam. It is about 5 seconds, depending on your camera startup time.
+This will record 5 seconds video from your webcam. It is about 5 seconds, depending on your camera startup time.
