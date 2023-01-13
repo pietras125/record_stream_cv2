@@ -1,4 +1,4 @@
-#Buferless video cpature
+# Buferless video cpature using cv2
 
 Made by Pietras125 (me) from:  
 -https://stackoverflow.com/a/54755738/20133132  
