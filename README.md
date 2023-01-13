@@ -6,10 +6,11 @@ Made by Pietras125 (me) from:
     
 Ready to import in your project.    
     
-Example of use (paste this into your code):  
-'''  
+Example of use:  
+``` 
 import record_stream_cv2  
 import threading  
+import time  
     
 if __name__ == "__main__":  
     #record 5 second video from webcam and close  
@@ -18,4 +19,6 @@ if __name__ == "__main__":
     x.start()  
     time.sleep(5)  
     cap.stop_recording()  
-'''
+```
+
+This will record 5 second video from your webcam. It is about 5 seconds, depending on your camera startup time.
